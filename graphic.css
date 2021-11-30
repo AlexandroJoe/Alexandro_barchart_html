@@ -1,0 +1,37 @@
+.title{
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Courier New', monospace;
+}
+
+.gender{
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Courier New', monospace;
+}
+
+.age{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Courier New', monospace;
+}
+
+.embark{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Courier New', monospace;
+}
+
+.cabin{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Courier New', monospace;
+
+}
+
+.survivor{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Courier New', monospace;
+
+}
